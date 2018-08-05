@@ -12,6 +12,7 @@
                 <p-table [value]="posts" styleClass="table table-bordered">
                     <ng-template pTemplate="header">
                         <tr class="thead-dark">
+                            <th>image</th>
                             <th>Name</th>
                             <th>Email</th>
                             <th>Body</th>
@@ -21,11 +22,16 @@
                     </ng-template>
                     <ng-template pTemplate="body" let-post>
                         <tr>
+                            <td>
+                                <img *ngIf="post.image" class="img-thumbnail" [src]="post?.image">
+                                <img *ngIf="!post.image" class="img-thumbnail" [src]="defaultImageUrl" alt="">
+                            </td>
                             <td>{{post.name}}</td>
                             <td>{{post.email}}</td>
                             <td>{{post.body}}</td>
                             <td>{{post.createdDate | date}}</td>
                             <td>Edit/Delete</td>
+
                         </tr>
                     </ng-template>
                     <ng-template pTemplate="summary" let-rowData>

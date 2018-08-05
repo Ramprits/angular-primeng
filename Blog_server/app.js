@@ -11,20 +11,20 @@ const logger = require("morgan");
 
 const app = express();
 app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({extended: false}));
+app.use(bodyParser.urlencoded({ extended: false }));
 
 //Connection to local Mongo DB
 mongoose
-    .connect(
-        "mongodb://ramprit:ramprit123456@ds133601.mlab.com:33601/dhanifruits",
-        {useNewUrlParser: true}
-    )
-    .then(() => {
-        console.log("Connected to database!");
-    })
-    .catch(() => {
-        console.log("Connection failed!");
-    });
+  .connect(
+    "mongodb://ramprit:ramprit123456@ds133601.mlab.com:33601/dhanifruits",
+    { useNewUrlParser: true }
+  )
+  .then(() => {
+    console.log("Connected to database!");
+  })
+  .catch(() => {
+    console.log("Connection failed!");
+  });
 
 const indexRouter = require("./routes/index");
 const usersRouter = require("./routes/users");
@@ -39,23 +39,24 @@ app.set("view engine", "pug");
 
 app.use(logger("dev"));
 app.use(express.json());
-app.use(express.urlencoded({extended: false}));
+app.use(express.urlencoded({ extended: false }));
 
 app.use((req, res, next) => {
-    res.setHeader("Access-Control-Allow-Origin", "*");
-    res.setHeader(
-        "Access-Control-Allow-Headers",
-        "Origin, X-Requested-With, Content-Type, Accept,Authorization"
-    );
-    res.setHeader(
-        "Access-Control-Allow-Methods",
-        "GET, POST, PATCH, DELETE, OPTIONS"
-    );
-    next();
+  res.setHeader("Access-Control-Allow-Origin", "*");
+  res.setHeader(
+    "Access-Control-Allow-Headers",
+    "Origin, X-Requested-With, Content-Type, Accept,Authorization"
+  );
+  res.setHeader(
+    "Access-Control-Allow-Methods",
+    "GET, POST, PATCH, DELETE, OPTIONS"
+  );
+  next();
 });
 
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, "public")));
+app.use("/images", express.static(path.join(__dirname, "images")));
 
 app.use("/", indexRouter);
 app.use("/api/users", usersRouter);
@@ -65,19 +66,19 @@ app.use("/api/orders", ordersRouter);
 app.use("/api/angulars", angularsRouter);
 
 // catch 404 and forward to error handler
-app.use(function (req, res, next) {
-    next(createError(404));
+app.use(function(req, res, next) {
+  next(createError(404));
 });
 
 // error handler
-app.use(function (err, req, res, next) {
-    // set locals, only providing error in development
-    res.locals.message = err.message;
-    res.locals.error = req.app.get("env") === "development" ? err : {};
+app.use(function(err, req, res, next) {
+  // set locals, only providing error in development
+  res.locals.message = err.message;
+  res.locals.error = req.app.get("env") === "development" ? err : {};
 
-    // render the error page
-    res.status(err.status || 500);
-    res.render("error");
+  // render the error page
+  res.status(err.status || 500);
+  res.render("error");
 });
 
 module.exports = app;
