@@ -1,12 +1,12 @@
 <div class="layout-sidebar" [ngClass]="{'layout-sidebar-active':app.mobileMenuActive}">
   <ul class="layout-menu" (click)="app.hideMobileMenu($event)">
-    <li>
+    <li *ngIf="isVisible">
       <a [routerLink]="['/']" routerLinkActive="active" [routerLinkActiveOptions]="{exact:true}">
         <i class="fa fa-globe"></i>
         <span>Sample</span>
       </a>
     </li>
-    <li>
+    <li *ngIf="isVisible">
       <a [routerLink]="['/forms']" routerLinkActive="active" [routerLinkActiveOptions]="{exact:true}">
         <i class="fa fa-check"></i>
         <span>Forms</span>
@@ -33,7 +33,7 @@
         <span>Panel</span>
       </a>
     </li>
-    <li>
+    <li *ngIf="isVisible">
       <a [routerLink]="['/overlays']" routerLinkActive="active" [routerLinkActiveOptions]="{exact:true}">
         <i class="fa fa-window-maximize"></i>
         <span>Overlay</span>
@@ -45,28 +45,28 @@
         <span>Menu</span>
       </a>
     </li>
-    <li>
+    <li *ngIf="isVisible">
       <a [routerLink]="['/charts']" routerLinkActive="active" [routerLinkActiveOptions]="{exact:true}">
         <i class="fa fa-pie-chart"></i>
         <span>Charts</span>
       </a>
     </li>
-    <li>
+    <li *ngIf="isVisible">
       <a [routerLink]="['/file']" routerLinkActive="active" [routerLinkActiveOptions]="{exact:true}">
         <i class="fa fa-folder"></i>
         <span>File</span>
       </a>
     </li>
-    <li>
+    <li *ngIf="isVisible">
       <a [routerLink]="['/messages']" routerLinkActive="active" [routerLinkActiveOptions]="{exact:true}">
         <i class="fa fa-comments"></i>
         <span>Messages</span>
       </a>
     </li>
-    <li>
-      <a [routerLink]="['/misc']" routerLinkActive="active" [routerLinkActiveOptions]="{exact:true}">
+    <li *ngIf="!isVisible">
+      <a [routerLink]="['/employees']" routerLinkActive="active" [routerLinkActiveOptions]="{exact:true}">
         <i class="fa fa-gear"></i>
-        <span>Misc</span>
+        <span>Employee</span>
       </a>
     </li>
   </ul>

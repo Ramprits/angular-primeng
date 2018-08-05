@@ -1,3 +1,83 @@
-<p>
-  create-employee works!
-</p>
+<div class="ui-fluid">
+  <div class="ui-g">
+    <div class="card card-w-title">
+
+
+      <form [formGroup]="employeeForm" (ngSubmit)="onSubmit(employeeForm.value)">
+        <p-panel header="Employee">
+          <div class="ui-grid ui-grid-responsive ui-grid-pad ui-fluid" style="margin: 10px 0px">
+            <div class="ui-grid-row">
+              <div class="ui-grid-col-4">
+                First Name *:
+              </div>
+              <div class="ui-grid-col-8">
+                <input pInputText type="text" formControlName="firstName" placeholder="first name" />
+              </div>
+
+            </div>
+            <div class="ui-grid-row">
+              <div class="ui-grid-col-4">
+                Last Name *:
+              </div>
+              <div class="ui-grid-col-8">
+                <input pInputText type="text" formControlName="lastName" placeholder="last name " />
+              </div>
+
+            </div>
+            <div class="ui-grid-row">
+              <div class="ui-grid-col-4">
+                Gender *:
+              </div>
+              <div class="ui-grid-col-8">
+                <p-dropdown [options]="genders" formControlName="gender"></p-dropdown>
+              </div>
+
+            </div>
+
+
+            <div class="ui-grid-row">
+              <div class="ui-grid-col-4">
+                Email *:
+              </div>
+              <div class="ui-grid-col-8">
+                <input pInputText type="email" formControlName="email" placeholder="email " />
+              </div>
+
+            </div>
+
+            <div class="ui-grid-row">
+              <div class="ui-grid-col-4">
+                Contact *:
+              </div>
+              <div class="ui-grid-col-8">
+                <input pInputText type="text" formControlName="contact" placeholder="contact " />
+              </div>
+
+            </div>
+
+            <div class="ui-grid-row">
+              <div class="ui-grid-col-4">
+                Image *:
+              </div>
+              <div class="ui-grid-col-8">
+                <button pButton type="button" label="Upload image" (click)="employeeFileUpload.click()"></button>
+                <input type="file" #employeeFileUpload>
+              </div>
+
+            </div>
+
+            <div class="ui-grid-row">
+              <div class="ui-grid-col-4"></div>
+              <div class="ui-grid-col-4">
+                <button pButton type="submit" label="Submit" [disabled]="!employeeForm.valid"></button>
+              </div>
+            </div>
+          </div>
+          <pre>
+            {{employeeForm.value|json}}
+          </pre>
+        </p-panel>
+      </form>
+
+    </div>
+  </div>

@@ -6,6 +6,7 @@ import {AppComponent} from './app.component';
     templateUrl: './app.sidebar.component.html'
 })
 export class AppSideBarComponent {
+  isVisible = false;
 
   constructor(public app: AppComponent) {}
 
