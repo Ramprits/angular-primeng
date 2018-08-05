@@ -1,8 +1,8 @@
 import {Component, OnInit, OnDestroy} from '@angular/core';
 import {MenuItem} from 'primeng/components/common/api';
-import {PostService} from '../service/post.service';
-import {IPost} from '../domain/IPost';
+import {IPost} from '../../domain/IPost';
 import {Subscription} from 'rxjs';
+import {PostService} from '../../service/post.service';
 
 @Component({
     selector: 'app-post',

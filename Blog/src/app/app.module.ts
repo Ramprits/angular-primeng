@@ -1,7 +1,7 @@
 import {BrowserModule} from '@angular/platform-browser';
 import {NgModule} from '@angular/core';
 import {AppRoutes} from './app.routes';
-import {FormsModule} from '@angular/forms';
+import {FormsModule, ReactiveFormsModule} from '@angular/forms';
 import {HttpClientModule} from '@angular/common/http';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import {LocationStrategy, HashLocationStrategy} from '@angular/common';
@@ -87,9 +87,10 @@ import {CarService} from './demo/service/carservice';
 import {CountryService} from './demo/service/countryservice';
 import {EventService} from './demo/service/eventservice';
 import {NodeService} from './demo/service/nodeservice';
-import {PostComponent} from './demo/view/post.component';
+import {PostComponent} from './demo/view/post/post.component';
 import {MessageService} from 'primeng/api';
 import {CreatePostComponent} from './demo/view/post/create-post.component';
+import { NewsComponent } from './demo/view/news/news.component';
 
 @NgModule({
     declarations: [
@@ -108,11 +109,13 @@ import {CreatePostComponent} from './demo/view/post/create-post.component';
         MiscDemoComponent,
         DocumentationComponent,
         PostComponent,
-        CreatePostComponent
+        CreatePostComponent,
+        NewsComponent
     ],
     imports: [
         BrowserModule,
         FormsModule,
+        ReactiveFormsModule,
         AppRoutes,
         HttpClientModule,
         BrowserAnimationsModule,

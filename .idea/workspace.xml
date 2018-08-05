@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb50139f-6e7e-4e55-86a9-84a27974a394" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Blog/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/3rdpartylicenses.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/designer/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/designer/_common.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/designer/_core.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/designer/_data.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/designer/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/designer/_menus.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/designer/_messages.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/designer/_misc.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/designer/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/designer/_overlays.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/designer/_panels.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/data/cars-large.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/data/cars-medium.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/data/cars-small.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/data/countries.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/data/files.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/data/filesystem.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/data/scheduleevents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/images/car/Audi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/images/car/BMW.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/images/car/Fiat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/images/car/Ford.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/images/car/Honda.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/images/car/Jaguar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/images/car/Mercedes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/images/car/Renault.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/images/car/Volkswagen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/images/car/Volvo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/images/nature/nature1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/images/nature/nature10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/images/nature/nature11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/images/nature/nature12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/images/nature/nature2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/images/nature/nature3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/images/nature/nature4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/images/nature/nature5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/images/nature/nature6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/images/nature/nature7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/images/nature/nature8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/images/nature/nature9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/images/sopranos/sopranos1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/images/sopranos/sopranos1_small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/images/sopranos/sopranos2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/images/sopranos/sopranos2_small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/images/sopranos/sopranos3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/images/sopranos/sopranos3_small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/images/sopranos/sopranos4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/images/sopranos/sopranos4_small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/layout/style/layout.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/mytheme/_extensions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/mytheme/_fonts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/mytheme/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/mytheme/fonts/open-sans-v15-latin-300.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/mytheme/fonts/open-sans-v15-latin-300.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/mytheme/fonts/open-sans-v15-latin-300.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/mytheme/fonts/open-sans-v15-latin-300.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/mytheme/fonts/open-sans-v15-latin-300.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/mytheme/fonts/open-sans-v15-latin-700.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/mytheme/fonts/open-sans-v15-latin-700.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/mytheme/fonts/open-sans-v15-latin-700.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/mytheme/fonts/open-sans-v15-latin-700.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/mytheme/fonts/open-sans-v15-latin-700.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/mytheme/fonts/open-sans-v15-latin-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/mytheme/fonts/open-sans-v15-latin-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/mytheme/fonts/open-sans-v15-latin-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/mytheme/fonts/open-sans-v15-latin-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/mytheme/fonts/open-sans-v15-latin-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/assets/mytheme/theme.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/color.c7a33805ffda0d32bd2a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/fontawesome-webfont.674f50d287a8c48dc19b.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/fontawesome-webfont.912ec66d7572ff821749.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/fontawesome-webfont.af7ae505a9eed503f8b8.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/fontawesome-webfont.b06871f281fee6b241d6.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/fontawesome-webfont.fee66e712a8a08eef580.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/line.567f57385ea3dde2c9ae.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/main.b338b583af8ed7cb18de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/open-sans-v15-latin-300.177cc92d2e8027712a8c.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/open-sans-v15-latin-300.27ef0b062b2e221df16f.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/open-sans-v15-latin-300.521d17bc9f3526c690e8.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/open-sans-v15-latin-300.60c866748ff15f5b347f.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/open-sans-v15-latin-300.76b56857ebbae3a5a689.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/open-sans-v15-latin-700.148a6749baa5f658a451.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/open-sans-v15-latin-700.2e00b2635b51ba336b4b.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/open-sans-v15-latin-700.623e3205570002af47fc.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/open-sans-v15-latin-700.7e08cc656863d52bcb5c.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/open-sans-v15-latin-700.d08c09f2f169f4a6edbc.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/open-sans-v15-latin-regular.7aab4c13671282c90669.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/open-sans-v15-latin-regular.9dce7f01715340861bdb.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/open-sans-v15-latin-regular.bf2d0783515b7d75c35b.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/open-sans-v15-latin-regular.c045b73d86803686f4cd.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/open-sans-v15-latin-regular.cffb686d7d2f4682df83.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/polyfills.c836dd89cad9845fcfb5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/primeicons.16403a4c331ee2260d8f.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/primeicons.997f5a14f93ebd516e6c.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/primeicons.99e7f8a327b50592bd6d.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/primeicons.a2c4048c7a63ebae6657.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/runtime.a66f828dca56eeb90e02.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/dist/primeng-designer-trial/styles.ac0970064aad34967e13.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeicons/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeicons/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeicons/fonts/primeicons.eot" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeicons/fonts/primeicons.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeicons/fonts/primeicons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeicons/fonts/primeicons.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeicons/fonts/primeicons.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeicons/fonts/primeicons.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeicons/fonts/primeicons.woff" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeicons/fonts/primeicons.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeicons/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeicons/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeicons/primeicons.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeicons/primeicons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/autocomplete/autocomplete.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/autocomplete/autocomplete.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/autocomplete/autocomplete.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/autocomplete/autocomplete.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/autocomplete/autocomplete.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/autocomplete/autocomplete.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/autocomplete/autocomplete.metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/autocomplete/autocomplete.metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/breadcrumb/breadcrumb.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/breadcrumb/breadcrumb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/breadcrumb/breadcrumb.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/breadcrumb/breadcrumb.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/breadcrumb/breadcrumb.metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/breadcrumb/breadcrumb.metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/calendar/calendar.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/calendar/calendar.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/calendar/calendar.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/calendar/calendar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/calendar/calendar.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/calendar/calendar.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/calendar/calendar.metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/calendar/calendar.metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/colorpicker/colorpicker.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/colorpicker/colorpicker.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/colorpicker/colorpicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/colorpicker/colorpicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/colorpicker/colorpicker.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/colorpicker/colorpicker.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/colorpicker/colorpicker.metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/colorpicker/colorpicker.metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/common/api.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/common/api.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/common/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/common/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/common/api.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/common/api.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/common/api.metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/common/api.metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/common/message.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/common/message.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/common/messageservice.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/common/messageservice.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/common/messageservice.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/common/messageservice.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/common/messageservice.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/common/messageservice.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/common/selectitem.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/common/selectitem.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/confirmdialog/confirmdialog.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/confirmdialog/confirmdialog.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/confirmdialog/confirmdialog.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/confirmdialog/confirmdialog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/confirmdialog/confirmdialog.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/confirmdialog/confirmdialog.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/confirmdialog/confirmdialog.metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/confirmdialog/confirmdialog.metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/datascroller/datascroller.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/datascroller/datascroller.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/datascroller/datascroller.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/datascroller/datascroller.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/datascroller/datascroller.metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/datascroller/datascroller.metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/dialog/dialog.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/dialog/dialog.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/dialog/dialog.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/dialog/dialog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/dialog/dialog.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/dialog/dialog.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/dialog/dialog.metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/dialog/dialog.metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/dom/domhandler.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/dom/domhandler.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/dom/domhandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/dom/domhandler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/dom/domhandler.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/dom/domhandler.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/dom/domhandler.metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/dom/domhandler.metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/dragdrop/dragdrop.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/dragdrop/dragdrop.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/dragdrop/dragdrop.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/dragdrop/dragdrop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/dragdrop/dragdrop.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/dragdrop/dragdrop.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/dragdrop/dragdrop.metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/dragdrop/dragdrop.metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/dropdown/dropdown.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/dropdown/dropdown.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/dropdown/dropdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/dropdown/dropdown.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/dropdown/dropdown.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/dropdown/dropdown.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/dropdown/dropdown.metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/dropdown/dropdown.metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/fileupload/fileupload.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/fileupload/fileupload.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/fileupload/fileupload.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/fileupload/fileupload.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/fileupload/fileupload.metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/fileupload/fileupload.metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/inputswitch/inputswitch.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/inputswitch/inputswitch.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/inputswitch/inputswitch.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/inputswitch/inputswitch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/inputswitch/inputswitch.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/inputswitch/inputswitch.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/inputswitch/inputswitch.metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/inputswitch/inputswitch.metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/listbox/listbox.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/listbox/listbox.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/listbox/listbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/listbox/listbox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/listbox/listbox.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/listbox/listbox.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/listbox/listbox.metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/listbox/listbox.metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/menu/menu.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/menu/menu.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/menu/menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/menu/menu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/menu/menu.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/menu/menu.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/menu/menu.metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/menu/menu.metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/message/message.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/message/message.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/message/message.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/message/message.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/messages/messages.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/messages/messages.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/messages/messages.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/messages/messages.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/messages/messages.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/messages/messages.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/messages/messages.metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/messages/messages.metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/multiselect/multiselect.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/multiselect/multiselect.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/multiselect/multiselect.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/multiselect/multiselect.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/multiselect/multiselect.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/multiselect/multiselect.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/multiselect/multiselect.metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/multiselect/multiselect.metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/organizationchart/organizationchart.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/organizationchart/organizationchart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/organizationchart/organizationchart.metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/organizationchart/organizationchart.metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/overlaypanel/overlaypanel.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/overlaypanel/overlaypanel.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/overlaypanel/overlaypanel.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/overlaypanel/overlaypanel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/overlaypanel/overlaypanel.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/overlaypanel/overlaypanel.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/overlaypanel/overlaypanel.metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/overlaypanel/overlaypanel.metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/paginator/paginator.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/paginator/paginator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/paginator/paginator.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/paginator/paginator.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/paginator/paginator.metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/paginator/paginator.metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/password/password.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/password/password.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/password/password.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/password/password.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/password/password.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/password/password.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/password/password.metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/password/password.metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/schedule/schedule.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/schedule/schedule.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/schedule/schedule.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/schedule/schedule.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/schedule/schedule.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/schedule/schedule.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/schedule/schedule.metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/schedule/schedule.metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/selectbutton/selectbutton.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/selectbutton/selectbutton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/selectbutton/selectbutton.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/selectbutton/selectbutton.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/selectbutton/selectbutton.metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/selectbutton/selectbutton.metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/sidebar/sidebar.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/sidebar/sidebar.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/sidebar/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/sidebar/sidebar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/sidebar/sidebar.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/sidebar/sidebar.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/sidebar/sidebar.metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/sidebar/sidebar.metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/slidemenu/slidemenu.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/slidemenu/slidemenu.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/slidemenu/slidemenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/slidemenu/slidemenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/slidemenu/slidemenu.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/slidemenu/slidemenu.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/slidemenu/slidemenu.metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/slidemenu/slidemenu.metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/slider/slider.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/slider/slider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/slider/slider.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/slider/slider.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/spinner/spinner.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/spinner/spinner.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/spinner/spinner.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/spinner/spinner.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/spinner/spinner.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/spinner/spinner.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/spinner/spinner.metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/spinner/spinner.metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/steps/steps.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/steps/steps.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/steps/steps.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/steps/steps.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/steps/steps.metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/steps/steps.metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/table/table.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/table/table.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/table/table.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/table/table.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/table/table.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/table/table.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/table/table.metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/table/table.metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/tabmenu/tabmenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/tabmenu/tabmenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/tabmenu/tabmenu.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/tabmenu/tabmenu.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/tabmenu/tabmenu.metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/tabmenu/tabmenu.metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/tabview/tabview.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/tabview/tabview.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/tabview/tabview.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/tabview/tabview.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/tabview/tabview.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/tabview/tabview.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/tabview/tabview.metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/tabview/tabview.metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/tieredmenu/tieredmenu.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/tieredmenu/tieredmenu.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/tieredmenu/tieredmenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/tieredmenu/tieredmenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/tieredmenu/tieredmenu.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/tieredmenu/tieredmenu.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/tieredmenu/tieredmenu.metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/tieredmenu/tieredmenu.metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/togglebutton/togglebutton.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/togglebutton/togglebutton.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/togglebutton/togglebutton.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/togglebutton/togglebutton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/togglebutton/togglebutton.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/togglebutton/togglebutton.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/togglebutton/togglebutton.metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/togglebutton/togglebutton.metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/tree/tree.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/tree/tree.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/tree/tree.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/tree/tree.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/tree/tree.metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/tree/tree.metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/treetable/treetable.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/treetable/treetable.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/treetable/treetable.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/treetable/treetable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/treetable/treetable.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/treetable/treetable.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/treetable/treetable.metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/treetable/treetable.metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/utils/objectutils.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/utils/objectutils.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/utils/objectutils.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/utils/objectutils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/components/utils/objectutils.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/components/utils/objectutils.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/components/breadcrumb/breadcrumb.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/components/breadcrumb/breadcrumb.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/components/calendar/calendar.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/components/calendar/calendar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/components/colorpicker/colorpicker.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/components/colorpicker/colorpicker.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/components/dialog/dialog.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/components/dialog/dialog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/components/dropdown/dropdown.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/components/dropdown/dropdown.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/components/inputswitch/inputswitch.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/components/inputswitch/inputswitch.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/components/menu/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/components/menu/menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/components/messages/messages.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/components/messages/messages.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/components/multiselect/multiselect.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/components/multiselect/multiselect.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/components/overlaypanel/overlaypanel.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/components/overlaypanel/overlaypanel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/components/password/password.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/components/password/password.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/components/slidemenu/slidemenu.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/components/slidemenu/slidemenu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/components/tieredmenu/tieredmenu.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/components/tieredmenu/tieredmenu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/primeng.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/primeng.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/primeng.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/primeng.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/_theme.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/_theme.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/cruze/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/cruze/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/cupertino/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/cupertino/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/darkness/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/darkness/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/flick/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/flick/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/home/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/home/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/kasper/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/kasper/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/lightness/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/lightness/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/ludvig/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/ludvig/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/omega/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/omega/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/omega/theme.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/omega/theme.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/omega/theme.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/omega/theme.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/pepper-grinder/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/pepper-grinder/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/redmond/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/redmond/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/rocket/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/rocket/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/south-street/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/south-street/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/south-street/theme.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/south-street/theme.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/start/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/start/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/trontastic/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/trontastic/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/voclain/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/node_modules/primeng/resources/themes/voclain/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/src/app/app.sidebar.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/src/app/app.sidebar.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/src/app/app.topbar.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/src/app/app.topbar.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/src/app/demo/view/post.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/src/app/demo/view/post.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/src/app/demo/view/post.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/src/app/demo/view/post.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/tslint.json" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-206796252">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="47" />
+    <option name="width" value="1176" />
+    <option name="height" value="636" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="primeng" type="b2602c69:ProjectViewProjectNode" />
+              <item name="primeng" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="primeng" type="b2602c69:ProjectViewProjectNode" />
+              <item name="primeng" type="462c0819:PsiDirectoryNode" />
+              <item name="Blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Blog" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb50139f-6e7e-4e55-86a9-84a27974a394" name="Default Changelist" comment="" />
+      <created>1533221870723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533221870723</updated>
+      <workItem from="1533221872334" duration="300000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="300000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1315" height="743" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22291021" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+</project>

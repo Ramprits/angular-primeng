@@ -11,7 +11,7 @@ import {ChartsDemoComponent} from './demo/view/chartsdemo.component';
 import {FileDemoComponent} from './demo/view/filedemo.component';
 import {MiscDemoComponent} from './demo/view/miscdemo.component';
 import {DocumentationComponent} from './demo/view/documentation.component';
-import {PostComponent} from './demo/view/post.component';
+import {PostComponent} from './demo/view/post/post.component';
 import {CreatePostComponent} from './demo/view/post/create-post.component';
 
 export const routes: Routes = [

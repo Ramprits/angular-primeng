@@ -1,7 +1,6 @@
 <div class="ui-fluid">
     <div class="ui-g">
-        <button pButton type="button" label="Add new post" style="margin-bottom:10px"
-                class="ui-button-primary" routerLink="create"></button>
+
         <p-toast></p-toast>
 
         <div class="ui-g-12">
@@ -28,6 +27,11 @@
                             <td>{{post.createdDate | date}}</td>
                             <td>Edit/Delete</td>
                         </tr>
+                    </ng-template>
+                    <ng-template pTemplate="summary" let-rowData>
+                        <div style="text-align:left; width: 6rem;">
+                            <button type="button" pButton icon="fa fa-plus" routerLink="create" label="Add"></button>
+                        </div>
                     </ng-template>
                 </p-table>
             </div>

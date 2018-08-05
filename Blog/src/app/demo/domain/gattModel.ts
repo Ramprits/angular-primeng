@@ -37,5 +37,4 @@ export class GattModel {
         this._name = value;
     }
 
-
 }
