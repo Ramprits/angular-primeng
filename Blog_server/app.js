@@ -16,7 +16,9 @@ app.use(bodyParser.urlencoded({ extended: false }));
 //Connection to local Mongo DB
 mongoose
   .connect(
-    "mongodb://ramprit:ramprit123456@ds133601.mlab.com:33601/dhanifruits",
+    "mongodb://ramprit:" +
+      process.env.MONGO_ATLAS_PWD +
+      "@ds133601.mlab.com:33601/dhanifruits",
     { useNewUrlParser: true }
   )
   .then(() => {

@@ -6,27 +6,22 @@
                 <input type="text" name="name" formControlName="name" placeholder="Name" pInputText>
             </div>
             <div class="ui-g-12 ui-md-4">
-                <input type="email" placeholder="Email" formControlName="email" name="email"
-                       pInputText>
+                <input type="email" placeholder="Email" formControlName="email" name="email" pInputText>
             </div>
             <div class="ui-g-12 ui-md-4">
-                <button pButton type="button" label="Upload" (click)="fileUpload.click()"
-                        class="ui-button-primary"></button>
+                <button pButton type="button" label="Upload" (click)="fileUpload.click()" class="ui-button-primary"></button>
                 <input #fileUpload type="file" style="display: none;" (change)="onBasicUploadAuto($event)">
-
-                <img width="100" height="100" *ngIf="imagePreview" [src]="imagePreview" [alt]="">
+                <img class="img-thumbnail" *ngIf="imagePreview" [src]="imagePreview" [alt]="">
 
             </div>
         </div>
         <div class="ui-g">
             <div class="ui-g-12 ui-sm-6 ui-md-6">
-                <textarea type="text" name="body" formControlName="body"
-                          pInputTextarea></textarea>
+                <textarea type="text" name="body" formControlName="body" pInputTextarea></textarea>
             </div>
         </div>
         <div class="ui-g-12 ui-md-1">
-            <button pButton type="submit" label="Save" style="margin-bottom:10px"
-                    class="ui-button-primary"></button>
+            <button pButton type="submit" label="Save" style="margin-bottom:10px" class="ui-button-primary"></button>
         </div>
         <pre>
     {{postForm.value|json}}
